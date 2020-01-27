@@ -1,0 +1,56 @@
+body
+{
+
+background-image: url("whistory.jpg");
+
+}
+
+
+ .main-nav
+{
+    float: right;
+    list-style: none;
+    margin-top:10px; 
+}
+.main-nav li
+{
+ display: inline-block;      
+}
+.main-nav li a 
+{
+   color: white;
+   text-decoration: none;
+   padding:  5px 20px;
+   font-family: "Roboto", sans-serif;
+   font-size:10px;
+}
+h2 
+{
+  text-align: center;
+  color: White;
+  text-decoration: underline
+}
+ h2 
+{
+  text-align: center;
+  color: White;
+  text-decoration: underline
+}
+ h2
+{
+  text-align: center;
+  color: White;
+  text-decoration: underline
+}
+ h2
+{
+  text-align: center;
+  color: White;
+  text-decoration: underline
+}
+ h2
+{
+  text-align: center;
+  color: White;
+  text-decoration: underline
+}
